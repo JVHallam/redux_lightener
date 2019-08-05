@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm exec_area/*;
+rm exec_area -rf;
